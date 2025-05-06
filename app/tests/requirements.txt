@@ -39,7 +39,7 @@ py==1.11.0
     # via
     #   pytest
     #   tox
-pygments==2.13.0
+pygments==2.15.0
     # via pygount
 pygount==1.2.4
     # via coverage2clover
