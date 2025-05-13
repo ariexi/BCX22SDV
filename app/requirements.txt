@@ -4,7 +4,7 @@
 #
 #    pip-compile app/requirements.in
 #
-aiohttp==3.8.5
+aiohttp==3.10.11
     # via dapr
 aiosignal==1.2.0
     # via aiohttp
@@ -36,7 +36,7 @@ multidict==6.0.2
     #   yarl
 packaging==21.3
     # via deprecation
-protobuf==3.20.1
+protobuf==3.20.2
     # via
     #   -r app/requirements.in
     #   dapr

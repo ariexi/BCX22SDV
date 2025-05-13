@@ -33,7 +33,7 @@ flake8==5.0.4
     # via -r requirements-dev.in
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.33
+gitpython==3.1.41
     # via bandit
 grpc-stubs==1.24.11
     # via -r requirements-dev.in

@@ -68,5 +68,5 @@ tox==3.26.0
     # via -r app/tests/requirements.in
 types-mock==4.0.15
     # via -r app/tests/requirements.in
-virtualenv==20.16.5
+virtualenv==20.26.6
     # via tox
