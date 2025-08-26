@@ -36,7 +36,7 @@ multidict==6.0.2
     #   yarl
 packaging==21.3
     # via deprecation
-protobuf==3.20.2
+protobuf==4.25.8
     # via
     #   -r app/requirements.in
     #   dapr
