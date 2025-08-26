@@ -85,7 +85,7 @@ platformdirs==2.5.2
     #   virtualenv
 pre-commit==2.20.0
     # via -r requirements-dev.in
-protobuf==3.20.2
+protobuf==4.25.8
     # via
     #   -c app/requirements.txt
     #   grpcio-tools
