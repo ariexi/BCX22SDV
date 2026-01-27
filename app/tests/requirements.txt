@@ -69,6 +69,8 @@ tox==3.26.0
 types-mock==4.0.15
     # via -r requirements.in
 typing-extensions==4.15.0
-    # via exceptiongroup
-virtualenv==20.26.6
+    # via
+    #   exceptiongroup
+    #   virtualenv
+virtualenv==20.36.1
     # via tox
